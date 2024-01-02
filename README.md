@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
 </p>
@@ -36,3 +37,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!--END_SECTION:footer-->
 
+=======
+# ignite-react-native-projeto04-push
+ignite-react-native-projeto04-push
+>>>>>>> 6e8da5af977bd02feb0617253992c31932425bf7
